@@ -1,5 +1,5 @@
-### Hi there 👋
-<br/>
-<br/>
+### I'am Erik 🐸
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erikyvanov&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=erikyvanov&bg_color=30,0ff1ce,904e95&title_color=fff&text_color=fff&include_all_commits=true&hide_rank)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erikyvanov&hide=jupyter notebook, html, scss,css)](https://github.com/anuraghazra/github-readme-stats&langs_count=4)
