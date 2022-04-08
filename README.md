@@ -1,4 +1,4 @@
-### I'am Erik 🐸
+# I'am Erik 🐸
 
   <div align="center">
   <a href="https://github.com/erikyvanov">
