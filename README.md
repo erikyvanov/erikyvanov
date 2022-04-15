@@ -15,5 +15,5 @@
     <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
     <img align="center" alt="Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
     <img align="center" alt="GraphQL" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg">
-    <img align="center" alt="Bash" height="30" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/bash/bash-original.svg">
+    <img align="center" alt="Bash" height="30" src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/linux.svg">
 </div>
