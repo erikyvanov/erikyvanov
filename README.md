@@ -2,8 +2,13 @@
 
 <div align="center">
   <a href="https://github.com/erikyvanov">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=erikyvanov&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erikyvanov&layout=compact&langs_count=6&theme=dracula&hide=jupyter%20notebook,html,css,scss"/>
+  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=erikyvanov&theme=nord_dark"/>
+</div>
+  <br/>
+<div align="center">
+  <a href="https://github.com/erikyvanov">
+  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=erikyvanov&theme=nord_dark"/>
+  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=erikyvanov&theme=nord_dark"/>
 </div>
 <br/>
   
